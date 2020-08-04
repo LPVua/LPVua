@@ -1,4 +1,4 @@
-![](./assets/main.svg)
+![](https://github.com/LPVua/LPVua/blob/master/assets/main.svg)
 
 I enjoy writing beautiful UI components using [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/). I'm a big fan of finite state machines ([FSM](https://en.wikipedia.org/wiki/Finite-state_machine)) and [Xstate](https://xstate.js.org/) library!
 
