@@ -26,6 +26,5 @@ My focus on **finite state machines (FSMs)** helps me deliver predictable, robus
 ---
 
 📎 **Learn more about me on [LinkedIn](https://www.linkedin.com/in/paul-lompas/)**  
-📂 **Check out my projects and contributions below!**
 
 ---
